@@ -2,6 +2,9 @@
 # -*- coding: utf-8 -*-
 
 
+# Author: PiereLucas
+
+
 import subprocess
 import socket
 
